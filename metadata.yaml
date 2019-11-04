@@ -1,0 +1,29 @@
+_repo: Aromatics-and-the-Soul-A-Study-of-Smells_60584
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McKenzie, Dan
+    birthdate: 1870
+    deathdate: 1935
+    gutenberg_agent_id: '51035'
+    url: http://www.gutenberg.org/2009/agents/51035
+description: ''
+gutenberg_issued: '2019-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60584'
+  lccn: '24014450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QP'
+- !lcsh 'Smell'
+- GITenberg
+tableOfContents: Preface -- Olfaction and public health -- The sense of olfaction
+  in lower animals -- Olfactory memory -- Smell and speech -- Smell in folk-lore,
+  religion, and history -- The ultimate -- Smell and the personality -- Theories of
+  olfaction -- Dust of the rose petal.
+title: 'Aromatics and the Soul: A Study of Smells'
+url: http://www.gutenberg.org/ebooks/60584
